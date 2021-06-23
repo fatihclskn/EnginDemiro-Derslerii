@@ -24,7 +24,6 @@ namespace GenericsIntro
 
 
 
-
             Console.ReadLine();
 
         }
